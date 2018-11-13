@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node2" appversion="5.2.5" apprev="15998">
+  <panorama id="node2">
+    <input levelbias="0.400" overlap="1" width="3666" height="3666" levelingpitch="0" levelbiashidpi="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0">
+      <level width="3666" height="3666" predecode="0" preload="0"/>
+      <level width="1833" height="1833" predecode="0" preload="0"/>
+      <level width="916" height="916" predecode="0" preload="0"/>
+      <level width="458" height="458" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-59.5" fov="5" pan="0"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" author="" datetime="9/13/18 5:40 AM" tags="Edited Panos" source="" longitude="" info="" title="" copyright="" customnodeid="" description="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label bordercolor="0x000000" border="1" width="180" height="20" backgroundalpha="1" borderradius="1" wordwrap="1" background="1" textalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" skinid="ht_node" url="{node3}" title="" tilt="-0.69" description="" target="" pan="27.43"/>
+      <hotspot id="Point02" skinid="ht_video_youtube" url="Sy9crOcL1Fo" title="Harvest in R block:  Validating Yield and Brix" tilt="-44.65" description="" target="" pan="-12.09"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" type="crossdissolve" zoomin="0" zoomout="0" enabled="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedmouse="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" lockedwheel="0" simulatemass="1" hideabout="0" rubberband="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedkeyboard="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbias="0.400" overlap="1" width="3691" height="3691" levelingpitch="0" levelbiashidpi="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0">
+      <level width="3691" height="3691" predecode="0" preload="0"/>
+      <level width="1845" height="1845" predecode="0" preload="0"/>
+      <level width="922" height="922" predecode="0" preload="0"/>
+      <level width="461" height="461" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" author="" datetime="9/13/18 5:26 AM" tags="Edited Panos" source="" longitude="" info="" title="" copyright="" customnodeid="" description="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label bordercolor="0x000000" border="1" width="180" height="20" backgroundalpha="1" borderradius="1" wordwrap="1" background="1" textalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" skinid="ht_node" url="{node2}" title="" tilt="2.89" description="" target="" pan="149.46"/>
+      <hotspot id="Point02" skinid="ht_video_youtube" url="JMt83QEfEhg" title="Berry Curve" tilt="-43.6" description="" target="" pan="-71.2"/>
+      <hotspot id="Point03" skinid="ht_video_youtube" url="G-tBp__pO1M" title="What Is Vine Size? " tilt="14.17" description="" target="" pan="-119.31"/>
+      <hotspot id="Point04" skinid="ht_url" url="https://www.efficientvineyard.com/crop-estimation/berry-weight-not-berry-weight-question/" title="Berry Weight Sampling" tilt="-16.19" description="" target="_blank" pan="-0.47"/>
+      <hotspot id="Point05" skinid="ht_node" url="{node4}" title="" tilt="44.45" description="" target="" pan="0.12"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" type="crossdissolve" zoomin="0" zoomout="0" enabled="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedmouse="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" lockedwheel="0" simulatemass="1" hideabout="0" rubberband="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedkeyboard="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbias="0.400" overlap="1" width="4625" height="4625" levelingpitch="0" levelbiashidpi="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0">
+      <level width="4625" height="4625" predecode="0" preload="0"/>
+      <level width="2312" height="2312" predecode="0" preload="0"/>
+      <level width="1156" height="1156" predecode="0" preload="0"/>
+      <level width="578" height="578" predecode="0" preload="0"/>
+      <level width="289" height="289" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" author="" datetime="9/6/18 12:48 PM" tags="Edited Panos" source="" longitude="-79.486389" info="" title="" copyright="" customnodeid="" description="" latitude="42.376111"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label bordercolor="0x000000" border="1" width="180" height="20" backgroundalpha="1" borderradius="1" wordwrap="1" background="1" textalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point02" skinid="ht_node" url="{node3}" title="" tilt="-77.72" description="" target="" pan="149.39"/>
+      <hotspot id="Point03" skinid="ht_info" url="" title="Sample Block Data After Processing" tilt="-47.46" description="&lt;iframe  src=&quot;https://orbitist.carto.com/builder/835deb96-53f7-11e6-8904-0e05a8b3e3d7/embed&quot; width=&quot;98%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;>" target="" pan="178.24"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" type="crossdissolve" zoomin="0" zoomout="0" enabled="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedmouse="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" lockedwheel="0" simulatemass="1" hideabout="0" rubberband="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedkeyboard="0" invertcontrol="1"/>
+  </panorama>
+</tour>
